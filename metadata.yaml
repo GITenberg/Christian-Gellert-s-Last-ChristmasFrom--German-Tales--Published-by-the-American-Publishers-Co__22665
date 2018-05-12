@@ -1,0 +1,32 @@
+_repo: Christian-Gellert-s-Last-ChristmasFrom--German-Tales--Published-by-the-American-Publishers-Co__22665
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Auerbach, Berthold
+    alias: Baruch, Moses
+    birthdate: 1812
+    deathdate: 1882
+    gutenberg_agent_id: '8194'
+    url: http://www.gutenberg.org/2009/agents/8194
+    wikipedia: http://en.wikipedia.org/wiki/Berthold_Auerbach
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2007-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'Gellert, Christian Fürchtegott, 1715-1769'
+- !lcc 'PT'
+title: 'Christian Gellert''s Last Christmas
+
+  From "German Tales" Published by the American Publishers'' Corporation'
+url: http://www.gutenberg.org/ebooks/22665
